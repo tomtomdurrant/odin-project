@@ -1,0 +1,15 @@
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = https://github.com/tomtomdurrant/rock-paper-scissors.git
+[submodule "forms-project"]
+	path = forms-project
+	url = https://github.com/tomtomdurrant/forms-project.git
+[submodule "youtube-clone"]
+	path = youtube-clone
+	url = https://github.com/tomtomdurrant/youtube-clone.git
+[submodule "javascript-calculator"]
+	path = javascript-calculator
+	url = https://github.com/tomtomdurrant/javascript-calculator.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/tomtomdurrant/etch-a-sketch.git
