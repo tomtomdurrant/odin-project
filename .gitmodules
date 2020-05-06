@@ -13,3 +13,6 @@
 [submodule "etch-a-sketch"]
 	path = etch-a-sketch
 	url = https://github.com/tomtomdurrant/etch-a-sketch.git
+[submodule "NYT-Article"]
+	path = NYT-Article
+	url = https://github.com/tomtomdurrant/NYT-Article.git
