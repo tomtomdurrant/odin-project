@@ -16,3 +16,6 @@
 [submodule "NYT-Article"]
 	path = NYT-Article
 	url = https://github.com/tomtomdurrant/NYT-Article.git
+[submodule "google-clone"]
+	path = google-clone
+	url = https://github.com/tomtomdurrant/google-clone.git
