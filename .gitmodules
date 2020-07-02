@@ -19,3 +19,6 @@
 [submodule "google-clone"]
 	path = google-clone
 	url = https://github.com/tomtomdurrant/google-clone.git
+[submodule "google-results-clone"]
+	path = google-results-clone
+	url = https://github.com/tomtomdurrant/google-results-clone.git
